@@ -203,6 +203,10 @@ Ghost ESP turns your ESP32 into a powerful, cheap and helpful wireless testing t
 
 - 'CYD Dual USB'
 
+- 'CYD ESP32-2432S028R (2.8" screen)'
+
+- 'CYD ESP32-2432S024R (2.4" screen)'
+
 - LilyGo S3 T-Watch
 
 - Marauder V4

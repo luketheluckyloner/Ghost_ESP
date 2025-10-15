@@ -13,7 +13,7 @@ The following ESP32 models and boards are officially supported:
   - **CYDMicroUSB**
   - **CYDDualUSB** (Both ports)
   - **AITRIP CYD** (ESP32-2432S028R)
-  - **CYD 2.4″ variants**
+  - **CYD ESP32-2432S024R** (2.4-inch)
   - **Compatibility Note**: All CYD variants supported
 - **Waveshare LCD (7-inch)**: 800x480 resolution, using ESP32-S3
 - **Crowtech LCD (7-inch)**: 800x480 resolution, using ESP32-S3

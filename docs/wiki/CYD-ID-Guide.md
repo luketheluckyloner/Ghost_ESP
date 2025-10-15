@@ -4,9 +4,11 @@ Here you will find a list of CYD boards with images to assist in identification.
 
 ---
 
-## Fake CYD ESP32-2432S024R
+## CYD ESP32-2432S024R (2.4-inch)
 
-Compatible firmware package: `CYDDualUSB.zip`
+Compatible firmware package: `CYD2432S024R.zip`
+
+> Previously regarded as a clone-only board, this model now has dedicated GhostESP support.
 
 Identifying features:
 
@@ -14,15 +16,15 @@ Identifying features:
 - centered RGB LED
 - boot/reset buttons next to usb port
 
-![fake CYD ESP32-2432S024R back](../images/CYDs/fake_CYD_ESP32-2432S024R-back.jpg)
+![CYD ESP32-2432S024R back](../images/CYDs/fake_CYD_ESP32-2432S024R-back.jpg)
 
-![fake CYD ESP32-2432S024R front](../images/CYDs/fake_CYD_ESP32-2432S024R-front.jpg)
+![CYD ESP32-2432S024R front](../images/CYDs/fake_CYD_ESP32-2432S024R-front.jpg)
 
 ---
 
 ## AITRIP CYD ESP32-2432S028
 
-Compatible firmware package: `CYDAITIP.zip`
+Compatible firmware package: `CYD2432S028R.zip`
 
 Identifying features:
 
@@ -57,6 +59,6 @@ Identifying features:
 ## Important Notes
 
 - **ESP32-2432S028 (2.8 inch)**: Fully supported with all features
-- **ESP32-2432S024 (2.4 inch)**: Not compatible - avoid these boards
+- **ESP32-2432S024 (2.4 inch)**: Supported via `CYD2432S024R.zip` firmware bundle
 - All CYD boards support SD card functionality
 - RGB LED control is available on all variants

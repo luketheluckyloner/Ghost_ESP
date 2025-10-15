@@ -365,6 +365,7 @@ def get_build_targets() -> List[Dict[str, str]]:
         {"name": "CYD2USB2.4_Inch", "idf_target": "esp32", "sdkconfig_file": "configs/sdkconfig.CYD2USB2.4Inch", "zip_name": "CYD2USB2.4Inch.zip"},
         {"name": "CYD2USB2.4_Inch_C", "idf_target": "esp32", "sdkconfig_file": "configs/sdkconfig.CYD2USB2.4Inch_C_Varient", "zip_name": "CYD2USB2.4Inch_C.zip"},
         {"name": "CYD2432S028R", "idf_target": "esp32", "sdkconfig_file": "configs/sdkconfig.CYD2432S028R", "zip_name": "CYD2432S028R.zip"},
+        {"name": "CYD2432S024R", "idf_target": "esp32", "sdkconfig_file": "configs/sdkconfig.CYD2432S024R", "zip_name": "CYD2432S024R.zip"},
         {"name": "Waveshare_LCD", "idf_target": "esp32s3", "sdkconfig_file": "configs/sdkconfig.waveshare7inch", "zip_name": "Waveshare_LCD.zip"},
         {"name": "Crowtech_LCD", "idf_target": "esp32s3", "sdkconfig_file": "configs/sdkconfig.crowtech7inch", "zip_name": "Crowtech_LCD.zip"},
         {"name": "Sunton_LCD", "idf_target": "esp32s3", "sdkconfig_file": "configs/sdkconfig.sunton7inch", "zip_name": "Sunton_LCD.zip"},
