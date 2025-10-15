@@ -20,8 +20,9 @@ Features:
     - CYDMicroUSB: Micro USB only
     - CYDDualUSB: USB-C and Micro USB (now supported)
     - AITRIP CYD: ESP32-2432S028R
+    - CYD ESP32-2432S024R: 2.4-inch display variant
 
-Note: CYD boards using the ESP32-2432S028 (2.8 inches) are supported. The ESP32-2432S024 variant (2.4 inches) is not compatible.
+Note: CYD boards using either the ESP32-2432S028 (2.8 inches) or ESP32-2432S024 (2.4 inches) are supported. Flash the matching firmware package (`CYD2432S028R.zip` or `CYD2432S024R.zip`).
 
 For more help identifying your CYD, see the [CYD ID Guide](./CYD-ID-Guide.md).
 

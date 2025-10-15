@@ -2047,6 +2047,8 @@ class ESP32ControlGUI(QMainWindow):
             "CYD2USB.zip": "esp32",
             "CYDMicroUSB.zip": "esp32",
             "CYDDualUSB.zip": "esp32",
+            "CYD2432S028R.zip": "esp32",
+            "CYD2432S024R.zip": "esp32",
         }
         chip = release_assets.get(name, "")
         if chip:

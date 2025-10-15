@@ -1,5 +1,13 @@
 # Ghost ESP Changelog
 
+## [Unreleased]
+
+### Added
+
+#### Hardware
+
+- Added dedicated firmware support package for the CYD ESP32-2432S024R (2.4-inch) display variant.
+
 ## Revival v1.8
 
 ### Added
